@@ -5,7 +5,7 @@ created as part of **CS4BigData – Assignment A1: Putting Dotfiles under Git Co
 
 ## Repository Details
 - **Owner:** Syeda Jannatul Ferdous  
-- **Course:** CS4BigData  
+- **Course:** Computer Science für Big Data  
 - **Date:** October 2025  
 - **Remote Repo:** [https://github.com/syedajannatulferdous121/dotfiles](https://github.com/syedajannatulferdous121/dotfiles)
 
