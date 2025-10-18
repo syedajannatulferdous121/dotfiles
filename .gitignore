@@ -1,0 +1,12 @@
+*
+!.gitignore
+!.bashrc
+!.bash_logout
+!.bashrc.path
+!.profile
+!.zshrc
+!.zprofile
+!.minttyrc
+!.vimrc
+!.vscode_global/**
+!.tmux/**
